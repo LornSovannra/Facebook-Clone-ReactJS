@@ -1,0 +1,5 @@
+.app-body{
+    display: grid;
+    grid-template-columns: 20% 60% 20%;
+    background: rgb(243, 243, 243);
+}
