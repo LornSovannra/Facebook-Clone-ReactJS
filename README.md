@@ -1,4 +1,4 @@
-<h1 align="center">Restaurant Management System</h1>
+<h1 align="center"Facebook Clone</h1>
 
 ## News Feed
 <img src="screenshots/Home.png">
